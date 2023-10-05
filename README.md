@@ -12,6 +12,6 @@ Stay tuned for exciting projects related to Python and automation tools. I will 
 
 ## Contact
 
-Feel free to reach out to me if you have any questions, suggestions, or just want to chat about software engineering and programming. You can find me on [LinkedIn](#) and [Twitter](#).
+Feel free to reach out to me if you have any questions, suggestions, or just want to chat about software engineering and programming. You can find me on [LinkedIn](https://www.linkedin.com/in/scott-dawson-00693736)
 
 Let's code something amazing together! 🚀
